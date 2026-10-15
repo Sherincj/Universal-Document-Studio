@@ -34,3 +34,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Playwright browser reports and downloaded browser binaries
+/playwright-report/
+/test-results/
+/playwright/.cache/
