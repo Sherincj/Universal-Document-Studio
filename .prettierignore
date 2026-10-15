@@ -1,0 +1,6 @@
+# The source plan is intentionally preserved as received from the project owner.
+universal_document_studio_plan.md
+
+node_modules
+.next
+coverage
